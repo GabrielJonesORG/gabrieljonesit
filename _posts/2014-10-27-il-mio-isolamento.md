@@ -2,7 +2,9 @@
 layout: post
 title: Il mio isolamento!
 lang: it
-ref: hello-world
+ref: il-mio-isolamento
+categories: [categoria1]
+tags: [tag1, tag2, tag3]
 ---
 
 Tutti ora mi conoscono come "onlygabbyme": Gabriel in politica, Gabriel l'animatore, Gabriel & Cico (nessuno), Gabriel "la scuola è tossica", ecc... Ma non sono sempre stato così! Anzi! Meglio se iniziamo dal 2018.
