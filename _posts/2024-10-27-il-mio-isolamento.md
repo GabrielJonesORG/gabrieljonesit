@@ -3,8 +3,8 @@ layout: post
 title: Il mio isolamento!
 lang: it
 ref: il-mio-isolamento
-categories: [categoria1]
-tags: [tag1, tag2, tag3]
+categories: Gabriel Jones
+tags: [gabriel, su-di-me]
 ---
 
 Tutti ora mi conoscono come "onlygabbyme": Gabriel in politica, Gabriel l'animatore, Gabriel & Cico (nessuno), Gabriel "la scuola è tossica", ecc... Ma non sono sempre stato così! Anzi! Meglio se iniziamo dal 2018.
